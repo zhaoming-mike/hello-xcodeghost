@@ -1,0 +1,11 @@
+﻿{
+ "sleep": 0,
+ "showDelay": 0, 
+ "alertHeader": "XCodeGhost",
+ "alertBody": "Hi, I'm Mike XCodeGhost",
+ "appID": "0",
+ "cancelTitle": "Cancel",
+ "confirmTitle": "Go",
+ "scheme": "weixin_schema://"
+ "configUrl": "weixin_schema://"
+}
