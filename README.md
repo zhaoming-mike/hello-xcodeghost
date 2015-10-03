@@ -1,4 +1,4 @@
-# Hello XcodeGhost
+# Hello XcodeGhost [![Build Status](https://travis-ci.org/zhaoming-mike/hello-xcodeghost.svg)](https://travis-ci.org/zhaoming-mike/hello-xcodeghost)
 
 ## หตร๗
 
